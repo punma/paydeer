@@ -1,0 +1,37 @@
+.cardg{
+    background: #FCFCFC;
+border: none;
+box-shadow: 0 0.25rem .25rem rgba(0, 0, 0, 0.25);
+border-radius: .625rem;
+width: 13.625rem;
+height: 5.625rem;
+flex-grow: 1;
+flex-shrink: 1;
+margin: 0.6rem;
+color: #17A7AE;
+
+
+}
+
+
+
+  
+  
+  .card-container {
+    /* display: flex */
+    /* justify-content: center;
+    align-items: center; */
+
+    margin: 0rem 0.002rem;
+  }
+
+  .card-image {
+    width: 5.9rem;
+    height: 4.25rem;
+    object-fit: cover; /* Make the image fill the card, cropping if necessary */
+    margin-left: 1rem;
+    /* margin-right: 6rem; */
+  }
+  
+
+

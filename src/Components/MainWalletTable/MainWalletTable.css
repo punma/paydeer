@@ -1,0 +1,228 @@
+.main_wallet_table {
+  width: 57.1875rem;
+    /* height: 22.3125rem; */
+    border: none;
+    box-shadow: 0 0.25rem .25rem rgba(0, 0, 0, 0.25);
+    border-radius: .625rem;
+
+background: #FCFCFC;
+border-radius: .625rem;
+
+  }
+
+  .main_wallet_table1{
+    margin: 1rem;
+    width: 55.75rem;
+  }
+  .main_wallet_table1 th{
+    font-weight: 600;
+    font-size: .75rem;
+    line-height: .9375rem;
+    color: #18A3AE;
+    padding-left: 2rem;
+  }
+
+  .main_wallet_table1 td {
+    font-weight: 500;
+font-size: .625rem;
+line-height: .75rem;
+padding-left: 2rem;
+
+/* width: .3rem; */
+  }
+ 
+
+  .member_id {
+    color: #C99F19;
+  }
+  
+ 
+  
+
+
+  #main_wallet{
+    font-weight: 600;
+font-size: 1.25rem;
+line-height: 1.5rem;
+margin-top: 1.125rem;
+color: #263238;
+
+  }
+
+  #hr1{
+   margin-bottom: -.9rem;
+   margin-top: .55rem;
+  }
+  #hr2{
+    margin-bottom: .25rem;
+  }
+  #hr3{
+    margin-top: 0rem;
+  }
+
+  #show{
+    font-weight: 500;
+font-size: .9375rem;
+line-height: 1.125rem;
+margin: .6rem;
+  }
+
+ .vector{
+  /* border: 1px solid red; */
+  width: 3.4375rem;
+  height: 1.875rem;
+ } 
+
+ .vector p{
+  margin-top: .8rem;
+  margin-left: .5rem;
+  font-weight: 500;
+font-size: .75rem;
+line-height: .9375rem;
+ }
+
+ .vector_arrow{
+  margin-top: .9rem;
+  margin-left: .5rem;
+
+ }
+
+ /* .vector_arrow img{
+ 
+ } */
+
+ #entries{
+  font-weight: 500;
+font-size: .75rem;
+line-height: .9375rem;
+margin-top: .7rem;
+  margin-left: .5rem;
+ }
+
+ .DateFormet1{
+      margin-left: 6.9rem;
+
+ }
+ .DateFormet2{
+      margin-left: 1rem;
+
+ }
+
+ #to{
+  margin-top: .8rem;
+  margin-left: .9rem;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.9374rem;
+  line-height: 1.125rem;
+  
+  color: #17A7AE;
+ }
+
+ .nav_main_wallet{
+  background: #18939B;
+  border-radius: 0.625rem;
+list-style: none;
+width: 26.81rem;
+height: 2rem;
+color: white;
+
+ }
+
+ .tr1{
+  width: 55.75rem;
+height: .875rem;
+
+background: #FFF3F3;
+ }
+ .tr2{
+  width: 55.75rem;
+  height: .875rem;
+  
+  background: #F0F0F0;
+ }
+
+ .tr3{
+  width: 55.75rem;
+  height: 1.875rem;
+  background: #FFF3F3;
+ }
+ .nav_main_wallet li{
+  padding: .3rem;
+  margin-left: .5rem;
+  
+ }
+
+ .input_main_wallet{
+  width: 9.5rem;
+  height: 1.875rem;
+  /* padding: .6rem; */
+  padding-left: 1.5rem;
+  padding-bottom: .3rem;
+  border: none;
+  border-radius: 1.25rem;
+  background: #FFF3F3;
+
+ }
+
+ #last_p{
+  font-weight: 600;
+font-size: .625rem;
+line-height: .75rem;
+margin-top: 1.5rem;
+margin-left: 1rem;
+width: 7.8125rem;
+height: .75rem;
+/* margin-bottom: 2rem; */
+/* margin: 1.5rem 0 1rem 1rem; */
+padding-bottom: 2rem;
+
+color: #17A7AE;
+ }
+
+ .buttons{
+  float: right;
+  margin-right: 1.2rem;
+ }
+
+ #button_next{
+  font-weight: 600;
+font-size: .625rem;
+line-height: .75rem;
+/* width: 1.4375rem; */
+height: .625rem;
+border: none;
+/* margin-top: .7rem; */
+
+
+color: #18A3AE;
+ }
+
+ #button_back{
+  font-weight: 600;
+font-size: .625rem;
+line-height: .75rem;
+/* width: 1.4375rem; */
+height: .75rem;
+color: #C99F19;
+border: none;
+/* margin-top: .7rem; */
+margin-right: 1rem;
+
+
+ }
+
+ .view_button{
+  width: 79px;
+  height: 19px;
+  border: none;
+  background: #18A3AE;
+  border-radius: 20px; 
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+
+color: #FFFFFF;
+
+ }
+

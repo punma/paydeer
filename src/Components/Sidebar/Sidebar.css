@@ -1,0 +1,12 @@
+.logo_image {
+    width: 9.375rem;
+    height: 9.375rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.sidebar_design {
+    background-color: #18A3AE;
+    height: 10rem;
+    width: 18.2rem;
+}

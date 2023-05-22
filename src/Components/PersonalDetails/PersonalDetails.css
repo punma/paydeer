@@ -1,0 +1,14 @@
+.person-detail-card {
+  width: 31.8125rem;
+  height: 15.125rem;
+  box-shadow: 0px 0.25rem 0.25rem rgba(0, 0, 0, 0.25);
+  border-radius: 0.9375rem;
+}
+
+.custom-list {
+  list-style-type: disc; /* Sets the list style to disc (default bullet) */
+}
+
+.custom-list li {
+  color: #c99f19; /* Sets the color of list dots to red */
+}

@@ -1,25 +1,30 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import Profile from './Components/Profile/Profile'
+// import Sidebar from './Components/Sidebar/SideBar'
+// import Navbar from './Components/Navbar/Navbar'
+import GraphCards from './Components/GraphCards'
+import PersonalDetails from './Components/PersonalDetails/PersonalDetails'
+import AccountDetail from './Components/AccountDetail/AccountDetail'
+import MainWalletTable from './Components/MainWalletTable/MainWalletTable'
+import Tables from './Components/Tables/Tables'
+import Main123 from './Components/MainWalletTable/Main123'
 
-function App() {
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      {/* <Navbar/> */}
+      {/* <Sidebar/> */}
+      {/* <GraphCards/> */}
+      {/* <Profile/> */}
+      {/* <PersonalDetails/> */}
+      {/* <AccountDetail/> */}
+      <MainWalletTable/>
+      {/* <Tables/> */}
+      {/* <Test/> */}
+      {/* <Main123/> */}
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

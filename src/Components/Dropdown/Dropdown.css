@@ -1,0 +1,40 @@
+.sidebar_n {
+    color: white;
+    background-color: #18A3AE;
+    width: 18.18rem;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.icon_sidebar {
+    background-color: #17a7ae;
+    height: 2rem;
+    width: 2rem;
+    color: white;
+}
+
+.dropdown-menu {
+    background-color: #18A3AE;
+}
+
+.dropdown-item {
+    background-color: #D6EDEE;
+}
+
+.sidebar_button:hover {
+    color: black;
+    background-color: white;
+    border-radius: 12.5rem 0 0 12.5rem;
+    border: 2px solid #18A3AE;
+    border-radius: 12.5rem 0 0 12.5rem;
+    border-right: none;
+
+}
+
+.sidebar_button {
+
+    color: white;
+    padding-right: 30%;
+    margin-left: 12%;
+    border-radius: 12.5rem 0 0 12.5rem;
+}

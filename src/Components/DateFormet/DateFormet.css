@@ -1,0 +1,42 @@
+.date_formet{
+    width: 9.5rem ;
+    height: 1.875rem ;
+    background: #FFF3F3;
+    border-radius: 1.25rem; 
+    margin-top: .1rem;
+    /* margin-left: 6.9rem; */
+       
+}
+
+.date_picker{
+border: none;
+font-style: normal;
+font-weight: 500;
+font-size: .9375rem;
+line-height: 1.125rem;
+width: 6.1rem;
+
+
+
+
+color: #17A7AE;
+
+}
+
+   
+
+
+.FaCalendarAlt{
+    border: none;
+    height: 2.1rem;
+    width: 2.5rem;
+   
+    color: #18939B;
+
+}
+.input_date{
+    background: #FFF3F3;
+border-radius: 1.5rem;
+padding: .2rem;
+padding-left: .5rem;
+}
